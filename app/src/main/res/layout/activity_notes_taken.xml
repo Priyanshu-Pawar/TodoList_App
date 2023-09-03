@@ -7,7 +7,51 @@
     android:orientation="vertical"
     android:background="@color/black"
     tools:context=".NotesTakenActivity">
+    
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_notes"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView_save"
+                android:background="@android:color/transparent"
+                android:layout_width="?attr/actionBarSize"
+                android:layout_height="?attr/actionBarSize"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/ic_save"
+                android:padding="8dp"
+                android:contentDescription="@string/todo" />
+
+        </RelativeLayout>
 
 
+    </androidx.appcompat.widget.Toolbar>
+
+    <EditText
+        android:id="@+id/editText_title"
+        android:hint="Title"
+        android:textColorHint="@color/white"
+        android:padding="15dp"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:singleLine="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/editText_notes"
+        android:hint="Add Notes"
+        android:textColorHint="@color/white"
+        android:padding="15dp"
+        android:textColor="@color/white"
+        android:textStyle="normal"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
