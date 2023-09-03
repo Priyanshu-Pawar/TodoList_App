@@ -78,7 +78,6 @@ public class MainActivity extends AppCompatActivity implements  PopupMenu.OnMenu
                 filteredList.add(singleNote);
             }
         }
-
         notesListAdapter.filterList(filteredList);
     }
 
