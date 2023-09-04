@@ -11,7 +11,7 @@
         android:id="@+id/searchView_home"
         android:layout_alignParentTop="true"
         android:layout_margin="16dp"
-        android:background="@color/grey"
+        android:background="@color/white"
         app:queryHint="Search Notes..."
         app:iconifiedByDefault="false"
         android:layout_width="match_parent"

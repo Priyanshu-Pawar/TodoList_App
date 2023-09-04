@@ -6,6 +6,7 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.Toast;
@@ -18,7 +19,8 @@ import java.util.Date;
 public class NotesTakenActivity extends AppCompatActivity {
 
      EditText editText_title, editText_notes;
-     ImageView imageView;
+//     ImageView imageView;
+    Button imageView;
      Notes notes;
 
      boolean isOldNote = false;

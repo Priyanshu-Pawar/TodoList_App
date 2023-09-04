@@ -6,4 +6,7 @@
     <string name="date">Date</string>
     <string name="delete">Delete</string>
     <string name="pin_unpin">Pin/Unpin</string>
+    <string name="title1">Title</string>
+    <string name="add_notes">Add Notes</string>
+    <string name="save">Save</string>
 </resources>
