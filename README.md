@@ -26,10 +26,16 @@
 ## Screenshots
 
 
-<img align="right" width="45%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/d9f5731b-56ac-408a-a01e-174e2eff2b38">
-<img align="left" width="45%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/8449c816-6075-46df-8ef1-a1460938ad32">
+<img align="right" width="48%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/d9f5731b-56ac-408a-a01e-174e2eff2b38">
+<img align="left" width="48%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/8449c816-6075-46df-8ef1-a1460938ad32">
 
-<img align="right" width="45%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/bf49d092-1b98-4d3b-b687-784dbf05bea0">
-<img align="left" width="45%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/a12a986e-80a6-4677-b3c7-bc3d7b6d7ff0">
+<!--    -->
+
+<img align="right" width="45%" height="100%" style="border:0px;margin-top:50px" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/bf49d092-1b98-4d3b-b687-784dbf05bea0">
+<img align="left" width="45%" height="100%" style="border:0px;margin-top:50px"src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/a12a986e-80a6-4677-b3c7-bc3d7b6d7ff0">
+
+<img align="right" width="50%" height="100%" src="https://github.com/Priyanshu-Pawar/TodoList_App/assets/93826653/74638876-78dd-4d84-9695-40b9a554a56e">
+
+
 
 
